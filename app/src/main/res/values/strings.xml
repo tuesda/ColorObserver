@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorObserver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_wrong">input invalid!!</string>
+    <string name="no_null">The input can not be null</string>
+</resources>
